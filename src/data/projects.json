@@ -1,0 +1,28 @@
+
+[
+    {
+      "title": "Doctors Appointment App",
+      "imageSrc": "projects/project.png",
+      "description": "Simplifies healthcare scheduling,  patient profiles, secure data management.",
+      "skills": [" Android Studio","Java"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Play Music",
+      "imageSrc": "projects/project.png",
+      "description": "MP3 playback with intuitive UI, Java, Android Studio, efficient file management.",
+      "skills": [" Android Studio" , "Java"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Star Coding",
+      "imageSrc": "projects/project.png",
+      "description": "Promotes competitive programming with quizzes, practice problems, and algorithm explanations.",
+      "skills": [ "Dart", "Flutter"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Harshita0007/StarCoding"
+    }
+  ]
+  
